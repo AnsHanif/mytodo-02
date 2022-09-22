@@ -53,7 +53,7 @@ export default function Forgot() {
     // ..
   }).finally(()=>{
     setIsLoading(false)
-  }) 
+  })
   }
   return (
     <div className='login'>
