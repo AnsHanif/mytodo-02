@@ -1,0 +1,14 @@
+.F1{
+ background-color: #f8b500;;
+}
+.head1{
+    color: white;
+}
+
+.Favcard{
+    /* height: 40rem; */
+   width: 45rem; 
+}
+.p5{
+    flex: 1 0 auto;
+}
